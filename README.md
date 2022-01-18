@@ -4,6 +4,7 @@
 
 - 👀 I’m interested in Data Science, Programming, Project Management and designing algorithms.
 - 🌱 I’m currently learning data management and analysis using Excel + Tableau.
+- 🌱 I’m currently working on my project on DSA.
 - 📌Skilled in C++ and problem solving.
 - 📌Well acquainted with Data Structures, Algorithms and DBMS.
 - 📌Possess basic understanding of Python, C, Operating Systems and JAVA.
