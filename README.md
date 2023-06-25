@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kartik
 
-- Soon-to-be computer science graduate'23 with a passion for developing scalable technical and programming skills. Dedicated team player with proven leadership and    communication skills. Having positive attitude and keen to learn new things. Always inclined towards technology and seeking an opportunity to leverage my talent as a software developer or data scientist.
+- CSE graduate with a passion for developing scalable technical and programming skills. Dedicated team player with proven leadership and    communication skills. Having positive attitude and keen to learn new things. Always inclined towards technology and seeking an opportunity to leverage my talent as a tech verto.
 
 - 👀 I’m interested in Data Science, Programming, Project Management and designing Algorithms.
 - 🌱 I’m currently learning data management and analysis using Excel + Tableau.
